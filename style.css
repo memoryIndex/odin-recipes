@@ -1,0 +1,35 @@
+*{
+    font-family: arial;
+}
+
+img{
+    width: 300px;
+}
+
+.receipe-name,
+.ingredient-header,
+.steps-header,
+.index-title
+{
+    font-size: 24px;
+    background-color: rgb(41, 41, 41);
+    color: white;
+}
+
+#index-titles{
+    font-size: 36px;
+}
+
+.index-list{
+    font-size: 24px;
+    color:rgb(41, 41, 41);
+}
+
+.noodles-img{
+    height: 300px;
+    width: auto;
+}
+
+.ingredient-list{
+    font-style:italic;
+}
